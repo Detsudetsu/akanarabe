@@ -216,8 +216,10 @@ qy	ゃ
 qh	ゅ
 qn	ょ
 qu	っ
-q/	・
+qm	！
+q,	？
 q.	…
+q/	・
 
 awi	うぃ
 awo	うぇ
